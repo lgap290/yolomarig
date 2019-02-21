@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543245642327",
+    "firebase_url": "https://analizador-yolomarig.firebaseio.com",
+    "project_id": "analizador-yolomarig",
+    "storage_bucket": "analizador-yolomarig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543245642327:android:4e53e1748df2103a",
+        "android_client_info": {
+          "package_name": "com.lgavella.appimagepred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543245642327-taf1do2r57rgocbfh3fiegsnirl7464t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGa_AjFeX_aq4VHIm2xTw-gmPo1nwN7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
